@@ -1,0 +1,5 @@
+História : 
+O gato do player é perseguido por um cão. O player segue ambos até o interior de uma caverna onde, ao encontrar seu gato, se depara com um monstrinho e, ao tentar fugir cai de um ponte e vai parar no submundo. Agora o player terá que enfrentar monstros, puzzles e correr para voltar ao seu mundo.
+
+inicio :
+ 

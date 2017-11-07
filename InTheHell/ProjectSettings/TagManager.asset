@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneController
+  - ativador
+  - Inimigo
+  - Ponte
+  - Destroy
+  - Plataforma
+  - Mata
+  - Espada
+  - AtivarMusica
+  - Tiro
+  - Enemy
+  - D
+  - E
+  - Item
+  - GRespawn
+  - R
+  - Heart
+  - Spawn
+  - Text
+  - LifeOrb
+  - Flechax5
+  - Arco
+  - HeartBoss
+  - Life
+  - Armadilha
+  - Pendurar
+  - Pass
+  - Agua
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Camera
+  - Enemy's
+  - Particulas
+  - Player
+  - Colliders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fundo
+    uniqueID: 1928620567
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Meio
+    uniqueID: 3934375457
+    locked: 0
+  - name: Player
+    uniqueID: 369752419
+    locked: 0
+  - name: Pouco Frente
+    uniqueID: 2344007061
+    locked: 0
+  - name: Frente
+    uniqueID: 2617188307
+    locked: 0
+  - name: UI
+    uniqueID: 870106141
+    locked: 0

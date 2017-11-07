@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 19d1868307fb9dd4595b2a8fe1b47d1c
+timeCreated: 1499725496
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DraconianPixelsRegular
+  fontNames:
+  - DraconianPixelsRegular
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

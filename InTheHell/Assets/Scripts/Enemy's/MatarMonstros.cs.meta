@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 86b7d9dda1d791946a78b4e7429fbdc1
+timeCreated: 1500382024
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - LifeOrb: {fileID: 1483067178821176, guid: 6f0600a18c591d54c9993211d170b916, type: 2}
+  - flecha5x: {fileID: 1726432994093662, guid: 805258b0047aa3e45bff2f6276b9ad18, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
